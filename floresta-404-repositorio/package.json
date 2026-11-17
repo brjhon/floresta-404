@@ -1,0 +1,14 @@
+{
+  "name": "floresta-404",
+  "version": "0.23.0",
+  "private": true,
+  "description": "Floresta 404 — jogo de madeira multiplayer no navegador, inspirado em Lumber Tycoon 2",
+  "scripts": {
+    "build": "python3 tools/build.py",
+    "dev": "npx --yes http-server . -p 8080 -c-1"
+  },
+  "devDependencies": {
+    "peerjs": "1.5.4",
+    "three": "0.128.0"
+  }
+}
