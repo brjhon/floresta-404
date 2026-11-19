@@ -1,5 +1,12 @@
 # Novidades do Floresta 404
 
+## v0.24 — Mais leve e celular melhor
+- Opção de **Gráficos: Baixo / Médio / Alto** (no menu inicial e no menu de pausa). O jogo começa no Baixo no celular e no Médio no PC, e abaixa sozinho se ficar travando.
+- Bem mais leve: de cerca de 3.000 para cerca de 300 desenhos por quadro no Médio, com distância de visão, sombras e luzes ajustadas por nível.
+- Se o navegador não conseguir ligar o 3D, aparece uma mensagem explicando o que fazer.
+- Celular: menus cabem em tela deitada, dicas mostram os botões da tela (✋ 🚚 💰 🔨) em vez de teclas, avisos não saem da tela, tela cheia ao tocar em JOGAR (Android) e o personagem não fica andando sozinho ao sair do app.
+- Física da árvore: a queda para no chão de verdade (morro acima para antes, morro abaixo vai além), as árvores vizinhas balançam com a pancada, toras não atravessam troncos e tora apoiada só pela ponta escorrega e cai.
+
 ## Novo nome
 - O jogo agora se chama **Erro 404: Floresta Não Encontrada**, com logo novo na tela inicial.
 
